@@ -15,7 +15,9 @@ function LandingPage({ scheme = [] }) {
 }
 
 LandingPage.propTypes = {
-    scheme: PropTypes.shape({ type: PropTypes.string }),
+    scheme: PropTypes.arrayOf(
+        PropTypes.shape({ type: PropTypes.string })
+    ),
 }
 
 export default LandingPage;
