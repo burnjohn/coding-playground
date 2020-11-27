@@ -1,0 +1,26 @@
+.section-image-text {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #99d6f8;
+    display: flex;
+}
+.section-image-text-picture {
+    width: 50%;
+    flex-grow: 1;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.section-image-text-picture-left {
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.section-image-text-description {
+    width: 50%;
+    flex-grow: 3;
+}
+
+.section-image-text-left {
+    flex-direction: row-reverse;
+}

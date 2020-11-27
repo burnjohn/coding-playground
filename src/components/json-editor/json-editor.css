@@ -1,0 +1,26 @@
+.json-editor {
+    width: calc(50% - 15px);
+    border: 1px solid #000;
+    padding: 15px;
+    box-sizing: border-box;
+    min-height: 800px;
+}
+
+.json-editor-input {
+    outline: none;
+    border: none;
+    height: 100%;
+    width: 100%;
+    background: #e6e5e5;
+    color: #000;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.json-editor-input-error {
+    outline: 1px solid red;
+}
+
+.json-editor-mock-btn {
+    margin-bottom: 20px;
+}

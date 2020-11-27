@@ -1,0 +1,10 @@
+.section-data {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #99d6f8;
+    word-break: break-all;
+}
+
+.section-data-refresh-btn {
+    cursor: pointer;
+}
