@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React AppView](https://github.com/facebook/create-react-app).
 
-Run `npm start` and check out the landing page editor
+1. Run `npm install` to install packages
+2. Run `npm start` and check out the landing page editor
 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
