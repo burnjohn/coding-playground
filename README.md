@@ -1,6 +1,6 @@
 # How to check the app
 
-This project was bootstrapped with [Create React AppView](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1. Run `npm install` to install packages
 2. Run `npm start` and check out the landing page editor
